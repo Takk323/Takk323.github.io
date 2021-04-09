@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://takk323.github.io/</id>
     <title>TakkFlow</title>
-    <updated>2021-04-09T10:18:14.478Z</updated>
+    <updated>2021-04-09T10:59:38.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://takk323.github.io/"/>
     <link rel="self" href="https://takk323.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://takk323.github.io/images/avatar.png</logo>
     <icon>https://takk323.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, TakkFlow</rights>
+    <entry>
+        <title type="html"><![CDATA[同在]]></title>
+        <id>https://takk323.github.io/post/tong-zai/</id>
+        <link href="https://takk323.github.io/post/tong-zai/">
+        </link>
+        <updated>2021-04-09T10:59:07.000Z</updated>
+        <content type="html"><![CDATA[<p>​		二〇二一年三月十三日，和在&quot;Bumble&quot;上认识的校友去上海当代艺术博物馆（PSA），看王兵导演的纪录片------《三姊妹》。其实刚开始并不认识这位导演，而是被活动主题以及作为嘉宾的项飙老师所吸引。</p>
+<p>​		&quot;时代中的无名者&quot;，我所理解的时代应该指当下，也许是近十年，或者不应该用时间而是用某种科技的发展水平来定义和划分时代。无名乃有名的反义词，所谓的有名者最多的是大众眼里的娱乐明星、政治人物，稍微不那么有名的可能是指某领域内的学者、导演吧。而无名者更多的是在大众活动时间之外出现、扮演螺丝钉甚至更加从事微小工作的人吧，或者说我的父母。</p>
+<p>​		《三姊妹》这部纪录片，&quot;记录&quot;的是云南昭通（滇北）海拔3200米上的高原上三个幼小的姐妹。她们的母亲跑了，父亲在外打工，影片中出现了爷爷、婶婶和堂兄弟，她们是典型的贫穷人家、留守儿童。对贫穷的表达很简单，影片开头几秒钟的画面就传达出了她们房子的简陋、着装的破烂、生活环境之潮湿恶劣。但导演花了数月拍摄素材，最终剪辑成一部两个半小时的影片，所表达的并不是贫穷或者唤起人们对她们的关爱与帮助，更多的是想要表达她们的动力------&quot;在恶劣环境下那样生活的动力&quot;。其实我不赞同导演说的关于影片的内涵，也不欣赏这部影片，更多的像是在围观一种遥远的、无法接受但能产生共情的三姐妹的生活。项飙教授其实也有这种想法吧，他在揣摩王兵导演长时间站在摄影机后观察三姊妹的动力，他不是在&quot;见证&quot;也不是在&quot;记录&quot;，因为见证往往是带着某种期待的。项老师提出了&quot;同在&quot;的解读，在拍摄的时候，导演与三姊妹处在相同空间，度过了同样的时间，简化主观视角甚至戏剧性，而让观众经由极其枯燥的影像自身去介入&quot;他者&quot;生活。</p>
+<p>​		&quot;同在&quot;，挺旧的词。但是听到项飙的解答后，我仿佛理解了在老家时我大部分时间都是与别人同在而已。与发小们相处，他们在玩王者荣耀，我在旁边刷知乎豆瓣与他们同在；与我母亲相处时，她在做麦饼，我有时默默看着，有时用相机拍摄，我这样与她同在。</p>
+<p>​		人长大了，首先就与父母产生了隔阂，情感上、智识上的隔阂只能让我与他们仅仅同在。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://takk323.github.io/post/hello-gridea/</id>
